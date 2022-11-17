@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=" https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="Asia Sports Channels",CCTV-5HD
+#EXTINF:-1 tvg-logo=" https://www.pngegg.com/en/png-cuzud" group-title="Asia Sports ",CCTV-5 HD
 https://live.olelive.com:4443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngegg.com/en/png-cuzud " group-title="Asia Sports ",CCTV-5+HD
+https://live.olelive.com:4443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/DVB_(Myanmar)" group-title="Myanmar Channels",DVB News
+https://stream-02.sg1.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0tcwvfEDXrmm0RAfhytQZHjl4IrUQjjKfjSOSIdUH_xg)/dm/3/x8e61qj/s/live-1.m3u8#cell=lsg1
